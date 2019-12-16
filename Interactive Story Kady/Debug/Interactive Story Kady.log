@@ -1,0 +1,107 @@
+﻿  Interactive Story.cpp
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.cpp(4,10): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(7,2): error C2065:  'cout': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(7,60): error C2065:  'endl': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(14,2): error C2065:  'cout': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(14,62): error C2065:  'endl': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(16,2): error C2065:  'cout': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(16,33): error C2065:  'endl': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(17,2): error C2065:  'cout': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(17,40): error C2065:  'endl': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(21,2): error C2065:  'cin': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(26,10): error C2065:  'cout': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(28,10): error C2065:  'cout': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(36,2): error C2065:  'cout': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(36,33): error C2065:  'endl': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(42,2): error C2065:  'cout': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(42,34): error C2065:  'endl': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(48,2): error C2065:  'cout': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(48,80): error C2065:  'endl': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(51,2): error C2065:  'cout': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(51,31): error C2065:  'endl': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(52,2): error C2065:  'cout': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(52,48): error C2065:  'endl': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(56,2): error C2065:  'cin': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(61,10): error C2065:  'cout': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(61,92): error C2065:  'endl': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(63,10): error C2065:  'cout': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(63,75): error C2065:  'endl': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(72,2): error C2065:  'cout': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(72,47): error C2065:  'endl': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(73,2): error C2065:  'cout': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(73,80): error C2065:  'endl': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(81,2): error C2065:  'cout': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(81,56): error C2065:  'endl': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(82,2): error C2065:  'cout': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(82,111): error C2065:  'endl': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(85,2): error C2065:  'cout': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(85,40): error C2065:  'endl': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(86,2): error C2065:  'cout': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(86,49): error C2065:  'endl': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(90,2): error C2065:  'cin': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(95,10): error C2065:  'cout': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(95,40): error C2065:  'endl': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(97,10): error C2065:  'cout': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(97,47): error C2065:  'endl': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(106,2): error C2065:  'cout': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(106,33): error C2065:  'endl': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(107,2): error C2065:  'cout': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(107,47): error C2065:  'endl': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(111,2): error C2065:  'cin': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(125,2): error C2065:  'cout': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(125,113): error C2065:  'endl': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(126,2): error C2065:  'cout': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(126,67): error C2065:  'endl': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(127,2): error C2065:  'cout': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(127,86): error C2065:  'endl': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(128,2): error C2065:  'cout': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(128,75): error C2065:  'endl': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(129,2): error C2065:  'cout': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(129,92): error C2065:  'endl': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(130,2): error C2065:  'cout': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(130,76): error C2065:  'endl': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(138,2): error C2065:  'cout': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(138,104): error C2065:  'endl': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(139,2): error C2065:  'cout': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(139,67): error C2065:  'endl': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(140,2): error C2065:  'cout': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(140,77): error C2065:  'endl': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(141,2): error C2065:  'cout': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(141,92): error C2065:  'endl': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(142,2): error C2065:  'cout': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(142,76): error C2065:  'endl': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(150,2): error C2065:  'cout': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(150,64): error C2065:  'endl': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(151,2): error C2065:  'cout': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(151,90): error C2065:  'endl': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(152,2): error C2065:  'cout': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(152,93): error C2065:  'endl': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(153,2): error C2065:  'cout': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(153,60): error C2065:  'endl': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(154,2): error C2065:  'cout': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(154,92): error C2065:  'endl': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(155,2): error C2065:  'cout': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(155,76): error C2065:  'endl': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(163,2): error C2065:  'cout': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(163,52): error C2065:  'endl': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(164,2): error C2065:  'cout': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(164,45): error C2065:  'endl': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(165,2): error C2065:  'cout': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.h(165,86): error C2065:  'endl': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.cpp(47,5): error C2676:  binary '<<': 'std::istream' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.cpp(48,5): error C2676:  binary '<<': 'std::istream' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.cpp(50,8): error C2065:  'i': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.cpp(52,9): error C2065:  'i': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.cpp(53,1): error C2050:  switch expression not integral
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.cpp(69,8): error C2065:  'i': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.cpp(71,9): error C2065:  'i': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.cpp(72,1): error C2050:  switch expression not integral
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.cpp(93,8): error C2065:  'i': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.cpp(95,9): error C2065:  'i': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.cpp(96,1): error C2050:  switch expression not integral
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.cpp(112,8): error C2065:  'i': undeclared identifier
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.cpp(114,9): error C2065:  'i': undeclared identifier
+  Interactive Story Main.cpp
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story.cpp(114,10): error C1003:  error count exceeds 100; stopping compilation
+  Generating Code...
+C:\Users\12kad\source\repos\Interactive Story Kady\Interactive Story Kady\Interactive Story Main.cpp(17): error C1075:  '{': no matching token found
